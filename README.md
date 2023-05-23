@@ -1,4 +1,4 @@
-# ✨ Proyecto: Parqueadero | Programacion Orientada a Objetos II | Grupo B  ✨
+# 🚦 Proyecto: Parqueadero | POO II | Grupo B  🚦
 ### ¡Bienvenidos al repositorio del proyecto Parqueadero! En este proyecto, nuestro grupo conformado por:  
 * Adriana Sánchez - 1152234
 * Franklin González  1152128
