@@ -19,7 +19,8 @@ El objetivo principal de nuestro proyecto fue diseñar e implementar un sistema 
 - Lenguaje de programación: Java  
 - Paradigma de programación: Orientada a Objetos  
 -  Base de datos: MySQL
-- Biblioteca de acceso a la base de datos: JDBC    
+- Biblioteca de acceso a la base de datos: JDBC   
+- MVC (Model-View-Controller) 
 
 ## Agradecimientos:
 Queremos agradecer a nuestra profesora, Claudia Yamile, por su orientación y apoyo durante el desarrollo de este proyecto.
