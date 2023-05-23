@@ -1,5 +1,5 @@
 # 🚦 Proyecto: Parqueadero | POO II | Grupo B  🚦
-### ¡Bienvenidos al repositorio del proyecto Parqueadero! En este proyecto, nuestro grupo conformado por:  
+### ¡Bienvenidos al repositorio del proyecto Parqueadero! Nuestro grupo esta conformado por:  
 * Adriana Sánchez - 1152234
 * Franklin González  1152128
 * Santiago González - 1152235
@@ -26,6 +26,5 @@ Queremos agradecer a nuestra profesora, Claudia Yamile, por su orientación y ap
 
 - - -
 ## Notas:
-Este proyecto fue realizado como parte de la evaluación final de la asignatura, y el repositorio se encuentra abierto para su revisión y colaboración. Esperamos que este proyecto sea útil y pueda servir como referencia para otros desarrolladores interesados en la programación orientada a objetos y la gestión de parqueaderos.
+Este proyecto fue realizado como parte del 50% de la Segunda Nota Evaluativa, y el repositorio se encuentra abierto para su revisión y colaboración. Esperamos que este proyecto sea útil y pueda servir como referencia para otros desarrolladores interesados en la programación orientada a objetos y la gestión de parqueaderos.
 
-¡Gracias por visitar nuestro repositorio! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
